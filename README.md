@@ -3,7 +3,7 @@
 ## Project Background 
 ### The Flyer Time Capsule is an interactive art display that also serves as a time capsule for the university.
 ### The idea is to get students more involved with the university by participating in an event hosted by the Office of Mission and Identity and/or the Cornerstone class (formerly Intro to College Experience) that introduces the time capsule and students will then add in their data. 
-### The display will work with LED lights incased in a 3D Model Paper Plane that is connects to a computer and/or a kiosk for the lighting controls. The lights will be in a sequence pattern for the student to "find their plane" in the crowd of LED light up planes. Student data can be added, edited, or deleted using the Web Application or the Android Application on the kiosk in the Student Center. Student's data is then stored and called back from the database. 
+### The display will work with LED lights incased in around 40-60 3D Model Paper Plane that is connects to a computer and/or a kiosk for the lighting controls. The lights will be in a sequence pattern for the student to "find their plane" in the crowd of LED light up planes. Student data can be added, edited, or deleted using the Web Application or the Android Application on the kiosk in the Student Center. Student's data is then stored and called back from the database. 
 ## What's Completed
 ### Mock-ups for the Web and Android Application
 ## What's Currently Being Worked On
